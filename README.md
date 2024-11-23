@@ -70,4 +70,12 @@ O **HPApp** é um aplicativo Android que permite aos usuários interagir com uma
 - **Gestão de Erros**: Mensagens claras para lidar com entradas inválidas ou falhas de conexão.
 - **Copiar ID**: Função prática para copiar IDs diretamente de listas exibidas.
 
+## 🏹 Próximos Passos para uma v2
+
+- Melhora do UX/UI
+- Lista dinâmica dos professores e alunos, separando por grid
+- Foto de professores e alunos
+- Lista de feitiços
+- Mais informações sobre as casas
+
 O **Harry Potter API App** é uma ferramenta prática e educativa, perfeita para quem deseja explorar os dados do universo de Harry Potter ou aprender mais sobre o desenvolvimento de aplicativos Android.
