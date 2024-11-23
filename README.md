@@ -78,4 +78,4 @@ O **HPApp** é um aplicativo Android que permite aos usuários interagir com uma
 - Lista de feitiços
 - Mais informações sobre as casas
 
-O **Harry Potter API App** é uma ferramenta prática e educativa, perfeita para quem deseja explorar os dados do universo de Harry Potter ou aprender mais sobre o desenvolvimento de aplicativos Android.
+O **Harry Potter API App** é uma ferramenta prática e feita para fins de estudos, permite explorar os dados do universo de Harry Potter e aprender mais sobre o desenvolvimento de aplicativos Android por conta da API consumida com dados públicos sobre o universo HP.
