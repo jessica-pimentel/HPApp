@@ -21,6 +21,10 @@ O **HPApp** é um aplicativo Android que permite aos usuários interagir com uma
 - **Toast Notifications**: Mensagens de feedback para o usuário.
 - **Intents**: Navegação entre Activities do aplicativo.
 
+## 🎥 Vídeo demonstrativo do HPApp: 
+
+- [Assista ao vídeo como shorts no YouTube](https://youtube.com/shorts/Hk2_Nfv8lsw)
+
 ## ⚙️ Como Funciona
 
 - **MainActivity**:
