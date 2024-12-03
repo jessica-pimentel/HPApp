@@ -23,7 +23,7 @@ O **HPApp** é um aplicativo Android que permite aos usuários interagir com uma
 
 ## 🎥 Vídeo demonstrativo do HPApp: 
 
-- [Assista ao vídeo como shorts no YouTube](https://youtube.com/shorts/Hk2_Nfv8lsw)
+- [Assista ao vídeo demonstrativo no YouTube](https://youtube.com/shorts/Hk2_Nfv8lsw)
 
 ## ⚙️ Como Funciona
 
